@@ -1,4 +1,4 @@
-<h2>Release Notes for 4.0.107</h2>
+<h2>Release Notes for 4.2.0-139</h2>
 <p>This is a maintenance release for the Secure Spaces client software.</p>
 <ul>
   <li>Password Recovery integrated</li>
