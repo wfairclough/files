@@ -1,4 +1,6 @@
-=Release Notes for 4.2.0-139=
+===========================
+Release Notes for 4.2.0-139
+===========================
 This is a maintenance release for the Secure Spaces client software.
 
 * Password Recovery integrated
@@ -10,7 +12,9 @@ This is a maintenance release for the Secure Spaces client software.
 * Improved Secure Spaces Over the Air (OTA) updates checking
 
 
-  Notice:
-  Due to changes in our Launcher app, this OTA update may reset your Home Screen shortcuts and wallpaper.  
-  Your apps and data are not affected.
+===================
+Notice:
+====================
+Due to changes in our Launcher app, this OTA update may reset your Home Screen shortcuts and wallpaper.  
+Your apps and data are not affected.
 
