@@ -1,0 +1,15 @@
+## Release Notes for 4.2.0-139
+_This is a maintenance release for the Secure Spaces client software._
+
+* Password Recovery integrated
+* Consolidated number of APK files (9 to 4)
+* Spaces settings deletes user data on user debug builds
+* Improved More Spaces
+* Improved Spaces sharing to non-active Spaces
+* Self-contained Spaces Bug Fix
+* Improved Secure Spaces Over the Air (OTA) updates checking
+
+### Notice:
+
+**Due to changes in our Launcher app, this OTA update may reset your Home Screen shortcuts and wallpaper.  
+Your apps and data are not affected.**
