@@ -1,4 +1,4 @@
-=Release Notes for 4.2.0-139
+=Release Notes for 4.2.0-139=
 This is a maintenance release for the Secure Spaces client software.
 
 * Password Recovery integrated
