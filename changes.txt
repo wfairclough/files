@@ -9,7 +9,7 @@ _This is a maintenance release for the Secure Spaces client software._
 * Self-contained Spaces Bug Fix
 * Improved Secure Spaces Over the Air (OTA) updates checking
 
-#### Notice:
+### Notice:
 
-> Due to changes in our Launcher app, this OTA update may reset your Home Screen shortcuts and wallpaper.  
-> Your apps and data are not affected.
+**Due to changes in our Launcher app, this OTA update may reset your Home Screen shortcuts and wallpaper.  
+Your apps and data are not affected.**
